@@ -1,0 +1,13 @@
+{
+  "smoke": [
+    "./features/login.feature",
+    "./features/logout.feature"
+  ],
+  "regression": [
+    "./features/login.feature",
+    "./features/addCart.feature",
+    "./features/placeOrder.feature",
+    "./features/payment.feature",
+    "./features/logout.feature"
+  ]
+}

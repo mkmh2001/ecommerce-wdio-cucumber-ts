@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+out/
+
+# Test reports and logs
+allure-results/
+allure-report/
+logs/
+coverage/
+reports/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
